@@ -20,7 +20,7 @@ This is a sample Adobe Experience Manager project for a full stack Sites impleme
 
 ## Live Demo
 
-View the live demo at [https://www.wknd.site/](https://www.wknd.site/)
+View the live demo at [https://www.wknd.site/](https://www.wknd.site/).
 
 ## Tutorial
 
